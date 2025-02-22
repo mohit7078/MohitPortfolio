@@ -174,7 +174,7 @@
                     <div class="col-md-6">
                         <div class="hero-content-box">
                             <span class="hero-sub-title">I am Mohit Kumar </span>
-                            <h1 class="hero-title">Front-End Web Developer<br>
+                            <h1 class="hero-title"> Web Developer<br>
                             </h1>
 
                             <div class="hero-image-box d-md-none text-center">
@@ -806,7 +806,7 @@
                         </nav>
                     </div>
                     <div class="copy-text">
-                        <p>&copy; 2025 All rights reserved by <a href="#" target="_blank">Mohit Kumar Portfolio</a></p>
+                        <p>&copy; 2025 All rights reserved by <a href="#" target="_blank">Mohit Kumar</a></p>
                     </div>
                 </div>
             </div>
